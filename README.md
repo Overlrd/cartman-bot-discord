@@ -1,5 +1,5 @@
 # cartman-bot-discord
-[Discord bot based]() on [DialoGPT](https://huggingface.co/Overlrd/DialoGPT-small-cartman?text=Hey+my+name+is+Julien%21+How+are+you%3F) Model trained on Eric Cartman scripts in [*"South Park"* kaggle Dataset](https://www.kaggle.com/datasets/mustafacicek/south-park-scripts-dataset) 
+[Discord bot based](https://discord.gg/htwyQh66) on [DialoGPT](https://huggingface.co/Overlrd/DialoGPT-small-cartman?text=Hey+my+name+is+Julien%21+How+are+you%3F) Model trained on Eric Cartman scripts in [*"South Park"* kaggle Dataset](https://www.kaggle.com/datasets/mustafacicek/south-park-scripts-dataset) 
 
 
 
